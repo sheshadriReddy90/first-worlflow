@@ -7,7 +7,7 @@ jobs:
     - name: say greeting
       run: echo " Good mroning sheshadri"
     - name: say goodbye 
-      run: echo " Good-bye see you soon
+      run: echo " Good-bye see you soon"
   
   
 
